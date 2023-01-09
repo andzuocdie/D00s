@@ -14,7 +14,7 @@ if(!args[0]) {
 	const embed1 = new Discord.MessageEmbed()
 	.setColor('RANDOM')
 	.setTitle('🚀 **PANEL** 🚀')
-	.setDescription("**LAYER 7** \n `HOAN` \n `HOAN-V2` \n `HTTP-HEN` \n `HTTP-V2` \n `HTTP-GET` \n `CFB-V1` \n `CF-TLS` \n `CF-UAM` \n `TLS-STRONG` \n `HTTP-FLOOD` \n `HTTP-BY` \n `HTTP-VIP` \n `HTTP-RAW` \n `HTTP-RAND` \n `HTTPS-GO` \n `HTTP-GO` \n `HTTP-LORD` \n `HTTP-STORM` \n**LAYER 4** \n `TCP-KILL` \n `UDP-KILL` \n **Sẽ sớm update thêm Methods**")
+	.setDescription("**LAYER 7** \n `HOAN` \n `HOAN-V2` \n `HTTP-HEN` \n `HTTP-OMU` \n `FLOOD_GODZILLA` \n `HTTP-V2` \n `HTTP-GET` \n `CFB-V1` \n `CF-TLS` \n `CF-UAM` \n `TLS-STRONG` \n `HTTP-FLOOD` \n `HTTP-BY` \n `HTTP-VIP` \n `HTTP-RAW` \n `HTTP-RAND` \n `HTTPS-GO` \n `HTTP-GO` \n `HTTP-LORD` \n `HTTP-STORM` \n**LAYER 4** \n `TCP-KILL` \n `UDP-KILL` \n **Sẽ sớm update thêm Methods**")
 	message.channel.send(embed1);
 	return;
 	}
